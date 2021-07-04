@@ -48,7 +48,7 @@ Development of the DSVenda project, this project taught in the week of dev highe
 
 There is an API developed in Spring Boot, in which requests are registered / removed / edited in the database, this API also returns the available products. In addition, the entire interface is done with the user through a React application that is consuming this Java API.
 
-![app](https://github.com/antuniooh/dsVendas-sds3/blob/master/images/app.gif)
+![app](./images/app.gif)
 
 
 <!-- HOW TO RUN -->
